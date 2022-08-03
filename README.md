@@ -1,9 +1,9 @@
   
-# 🔮🚀 PancakeSwap Prediction Bot (improved) v2.0
+# 🔮🚀 PCS-Prediction v1.0
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
-PancakeSwap Prediction Bot using AI recomendations.
+The bot that uses signals from TradingView to predict the price of BNB for Up or Down in PancakeSwap.
 Folked and improved from [this repository](https://github.com/Soracode/pancakeswap-prediction-smartbot).
 
 ## ⭐Please consider giving a **star**.
@@ -17,8 +17,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/cryptobeast2/pancakeswap-prediction-bot-improved`` 
-2. ``cd pancakeswap-prediction-bot``
+1. ``git clone https://github.com/bobalice7/PCS-Prediction.git`` 
+2. ``cd PCS-Prediction.git``
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
@@ -30,7 +30,7 @@ Then run the following commands in terminal:
 
 1. Open the **.env** file with any code/text editor and add your private key like so:
 ```
-PRIVATE_KEY=0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8sorcppyqmuekj54btyd
+PRIVATE_KEY=YOUR_PRIVATE_KEY_HERE
 ```
 3. Open the **bot.js** file and setup the following variables:
 ```
