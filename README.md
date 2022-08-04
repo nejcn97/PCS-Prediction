@@ -4,7 +4,6 @@
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
 The bot that uses signals from TradingView to predict the price of BNB for Up or Down in PancakeSwap.
-Folked and improved from [this repository](https://github.com/Soracode/pancakeswap-prediction-smartbot).
 
 ## ⭐Please consider giving a **star**.
 
